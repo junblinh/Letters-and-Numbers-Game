@@ -1,2 +1,1 @@
-# Letters and Numbers Game
- Numbers Game with Genetic Algorithm
+# CAB320-Assignment2
